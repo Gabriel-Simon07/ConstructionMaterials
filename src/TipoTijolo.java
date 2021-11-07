@@ -1,0 +1,10 @@
+
+public enum TipoTijolo {
+	VERMELHO,
+	VERMELHO_MESCLADO,
+	BRANCO,
+	PALHA,
+	NORMAL,
+	TRAMELA,
+	PAQUETA
+}
